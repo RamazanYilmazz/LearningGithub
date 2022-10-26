@@ -38,11 +38,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666772810703</updated>
-      <workItem from="1666772812034" duration="634000" />
+      <workItem from="1666772812034" duration="875000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="127" width="1133" height="859" key="CommitChangelistDialog2" timestamp="1666776446103">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="421" y="127" width="1133" height="859" key="CommitChangelistDialog2/66.27.1854.1053@66.27.1854.1053" timestamp="1666776446103" />
   </component>
 </project>
